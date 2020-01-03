@@ -29,7 +29,7 @@ ENG:
 * [Italy unveil a legal proposal to regulate hacking](https://github.com/fpietrosanti/trojanregulations/blob/master/Article-on-Boing-Boing-Italy-unveils-a-legal-proposal-to-regulate-government-hacking-EN.pdf) article on boingboing summarizing for an international audience the principles of the proposal Here the [Online Article](https://boingboing.net/2017/02/15/title-italy-unveils-a-law-pro.html)
 * [Summary of the Bill Proposal](https://github.com/fpietrosanti/trojanregulations/blob/master/Summary-of-bill-proposal-on-trojan-EN.pdf)
 
-## Third party opinions
+## Third party opinions / review / interests
 
 * LIBE (EU Committee on Civil Liberties, Justice and Home Affairs) publish in 2017 [Legal Frameworks for Hacking by Law Enforcement: Identification, Evaluation and Comparison of Practices](https://www.europarl.europa.eu/RegData/etudes/STUD/2017/583137/IPOL_STU(2017)583137_EN.pdf#page86) that at Page 86 does a review of the bill proposal concluding *“The abovementioned conditions provide for many of the relevant and expected fundamental rights safeguards. “*
 
@@ -39,6 +39,8 @@ ENG:
  * "We strongly support the provisions in Civici e Innovatori’s proposal intended to ensure integrity, authenticity, and immutability of data and devices impacted by government hacking"
  * "There are several other provisions in the proposal that we believe will help protect human rights. First, we are in favor of the provision that prohibits the use of contractors to employ hacking tools"
  * "We are appreciative of Civici e Innovatori’s engagement on this important issue and incorporation of several human rights protections into the draft proposal."
+
+* [Privacy International](https://www.privacyinternational.org) has been interested in the review and consulting on the bill proposal, with talks with [Asaf Lubin](Asaf Lubin), with which we did also a set of [written question and answers](https://docs.google.com/document/d/1t6kfUigpBdiI8ECC306QHTL1cawOapvnRSIY0dV5KXA/edit?usp=sharing) that has been used as informative contribution for their [Submission to Human Rights Committee 119](https://tbinternet.ohchr.org/Treaties/CCPR/Shared%20Documents/ITA/INT_CCPR_CSS_ITA_26517_E.pdf) at [Office of the United Nations High Commissioner for Human Rights](https://www.ohchr.org/) where it's stated *"The bill calls for amending  Article  266  to  reflect  the  Court’s  judgment,  as  well  as  establish  a  more  robust system for authorizing remote and covert hacking"*
 
 * [Eva Gasperin](https://www.eff.org/it/about/staff/eva-galperin), Cybersecurity Director at EFF expressed on Twitter that this bill proposal is ["doesn't look bad"](https://twitter.com/evacide/status/838677527744827392?s=21)
 
