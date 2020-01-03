@@ -31,14 +31,14 @@ ENG:
 
 ## Third party opinions / review / interests
 
-1. CCC issued an [expert information on the political groups on risks when using malware in prosecution](https://www.ccc.de/system/uploads/227/original/Stellungnahme_CCC-Staatstrojaner.pdf) that  explicitly mention and include references to the safety principles of the trojan bill regulation proposal. For non German speaker, here [Google Translated](https://translate.google.com/translate?sl=de&tl=en&u=https%3A%2F%2Fwww.ccc.de%2Fsystem%2Fuploads%2F227%2Foriginal%2FStellungnahme_CCC-Staatstrojaner.pdf) edition. The CCC position paper inlcude the principles of Italian trojan proposal from Page 16, specifically in addressing the issue of "Lack of technical verifiability and traceability":
+1. CCC issued an [expert information on the political groups on risks when using malware in prosecution](https://www.ccc.de/system/uploads/227/original/Stellungnahme_CCC-Staatstrojaner.pdf) that  explicitly mention and include references to the safety principles of the trojan bill regulation proposal. For non German speaker, here [Google Translated](https://translate.google.com/translate?sl=de&tl=en&u=https%3A%2F%2Fwww.ccc.de%2Fsystem%2Fuploads%2F227%2Foriginal%2FStellungnahme_CCC-Staatstrojaner.pdf) edition. The CCC position paper inlcude the principles of Italian trojan proposal from Page 16, specifically in addressing the issue of "*Lack of technical verifiability and traceability*":
    * 1. The source code must be stored and verifiable.
- * 2. Every action must be documented completely, tamper-proof and verifiable.
- * 3. The malware must not weaken the general security level of the device
- * 4. The development and use of malware must be carried out by means of a central recording be understandable. 
- * 5. Independent certification of technical and data protection requirements be renewed regularly.
- * 6. Encryption and integrity protection of the data collected. 
- * 7. Limitation of sovereign tasks to government agencies.
+   * 2. Every action must be documented completely, tamper-proof and verifiable.
+   * 3. The malware must not weaken the general security level of the device
+   * 4. The development and use of malware must be carried out by means of a central recording be understandable. 
+   * 5. Independent certification of technical and data protection requirements be renewed regularly.
+   * 6. Encryption and integrity protection of the data collected. 
+   * 7. Limitation of sovereign tasks to government agencies.
 
 2. EU Committee on Civil Liberties, Justice and Home Affairs (LIBE) published in 2017 [Legal Frameworks for Hacking by Law Enforcement: Identification, Evaluation and Comparison of Practices](https://www.europarl.europa.eu/RegData/etudes/STUD/2017/583137/IPOL_STU(2017)583137_EN.pdf#page86) that at Page 86 does a review of the bill proposal concluding *“The abovementioned conditions provide for many of the relevant and expected fundamental rights safeguards. “*
 
