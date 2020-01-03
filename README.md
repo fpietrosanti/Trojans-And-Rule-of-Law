@@ -40,7 +40,7 @@ ENG:
    * 6. Encryption and integrity protection of the data collected. 
    * 7. Limitation of sovereign tasks to government agencies.
 
-2. EU Committee on Civil Liberties, Justice and Home Affairs (LIBE) published in 2017 [Legal Frameworks for Hacking by Law Enforcement: Identification, Evaluation and Comparison of Practices](https://www.europarl.europa.eu/RegData/etudes/STUD/2017/583137/IPOL_STU(2017)583137_EN.pdf#page86) that at Page 86 does a review of the bill proposal concluding that
+2. [EU Committee on Civil Liberties, Justice and Home Affairs](https://www.europarl.europa.eu/committees/it/libe/home.html) (LIBE) published in 2017 [Legal Frameworks for Hacking by Law Enforcement: Identification, Evaluation and Comparison of Practices](https://www.europarl.europa.eu/RegData/etudes/STUD/2017/583137/IPOL_STU(2017)583137_EN.pdf#page86) that at Page 86 does a review of the bill proposal concluding that
    * *“The abovementioned conditions provide for many of the relevant and expected fundamental rights safeguards. “*
 
 3. [Access Now](https://www.accessnow.org/) on 29 March 2017 publish a [Policy Review of the Bill Proposal](https://github.com/fpietrosanti/trojanregulations/blob/master/Access-Now-Comment-on-the-Trojan-Bill-Proposal.pdf) while condemning any government hacking, express a generally favourable opinion, with several improvements suggestions:
