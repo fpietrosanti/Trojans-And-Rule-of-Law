@@ -11,6 +11,8 @@ The team that worked on the the bill proposal was composed as follow:
 
 This repository is made up for valuable juridical, human rights, forensics and technical interests on the topic internationally.
 
+No, this bill proposal doesn't have anything todo with export control or undisclosed vulnerabilities (0day).
+
 
 ## The Bill Proposal and it's artifacts
 There are many artifacts around the trojan regulation bill proposal we've done in Italy in 2017, most in Italy, with some in English for a bigger audience.
