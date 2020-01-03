@@ -20,6 +20,10 @@ ITA:
 * [The Technical Regulation of the Bill Proposal](https://github.com/fpietrosanti/trojanregulations/blob/master/Disciplinare-Tecnico-Proposta-di-Legge-Captatori-IT.pdf)
 * [Motivations on why a Technical Regulation is needed](https://github.com/fpietrosanti/trojanregulations/blob/master/Motivazionie-Contenuti-del-Disciplinare-Tecnico-IT.pdf) for the jurists
 
+* [Press Conference](https://github.com/fpietrosanti/trojanregulations/blob/master/Conferenza-Stampa-Presentazione-Proposta-di-Legge-IT.pdf) of the Civici and Innovatori parliamentary group preenting the Trojan Bill Proposal
+* [Talking notes](https://github.com/fpietrosanti/trojanregulations/blob/master/Conferenza-Stampa-Note-Proposta-di-Legge-IT.doc) for the Press conference
+
+
 ENG:
 
 * [Italy unveil a legal proposal to regulate hacking](https://github.com/fpietrosanti/trojanregulations/blob/master/Article-on-Boing-Boing-Italy-unveils-a-legal-proposal-to-regulate-government-hacking-EN.pdf) article on boingboing summarizing for an international audience the principles of the proposal Here the [Online Article](https://boingboing.net/2017/02/15/title-italy-unveils-a-law-pro.html)
@@ -43,9 +47,7 @@ ENG:
 
 ## Conferences
 
-* [Press Conference](https://github.com/fpietrosanti/trojanregulations/blob/master/Conferenza-Stampa-Presentazione-Proposta-di-Legge-IT.pdf) of the Civici and Innovatori parliamentary group preenting the Trojan Bill Proposal
-
-* [Talking notes](https://github.com/fpietrosanti/trojanregulations/blob/master/Conferenza-Stampa-Note-Proposta-di-Legge-IT.doc) for the Press conference
+* [Round table Government hacking in different national contexts](https://www.youtube.com/watch?v=ujWYz4vMWLg) organized by [EDRi](https://www.edri.org) (European Digital Rights) at (Privacy Camp 2018](https://privacycamp.eu/)
 
 * Talk at SHA2017 Hacker Camp in the Netherland on [Regulating Law Enforcement use of Trojans (SHA2017)](https://www.youtube.com/watch?v=tF_i3X_PcFY) by Fabio Pietrosanti and Andrea Ghirardini ([Here the Slides](https://docs.google.com/presentation/d/11-AdcbRlxhWwHhHz54Yp8hNYXAICYBHHfumDO89XFrs/edit) )
 
