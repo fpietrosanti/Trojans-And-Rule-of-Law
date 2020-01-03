@@ -36,7 +36,7 @@ ENG:
  * "There are several other provisions in the proposal that we believe will help protect human rights. First, we are in favor of the provision that prohibits the use of contractors to employ hacking tools"
  * "We are appreciative of Civici e Innovatori’s engagement on this important issue and incorporation of several human rights protections into the draft proposal."
 
-* [Eva Gasperin](https://www.eff.org/it/about/staff/eva-galperin), Cybersecurity Director at EFF expressed on Twitter that this bill proposal is ["not bad"](https://twitter.com/evacide/status/838677527744827392?s=21)
+* [Eva Gasperin](https://www.eff.org/it/about/staff/eva-galperin), Cybersecurity Director at EFF expressed on Twitter that this bill proposal is ["doesn't look bad"](https://twitter.com/evacide/status/838677527744827392?s=21)
 
 * [Claudio Guarnieri](https://nex.sx/) made a [poll on Twitter](https://twitter.com/botherder/status/831870707009191936?s=21) to his audience showing that 51% of respondant are against any kind of regulation
 
