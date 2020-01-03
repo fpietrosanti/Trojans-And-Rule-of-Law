@@ -58,7 +58,7 @@ ENG:
 
 ## Conferences
 
-* [Round table Government hacking in different national contexts](https://www.youtube.com/watch?v=ujWYz4vMWLg) organized by [EDRi](https://www.edri.org) (European Digital Rights) at (Privacy Camp 2018](https://privacycamp.eu/)
+* [Round table Government hacking in different national contexts](https://www.youtube.com/watch?v=ujWYz4vMWLg) organized by [EDRi](https://www.edri.org) (European Digital Rights) at [Privacy Camp 2018](https://privacycamp.eu/)
 
 * Talk at SHA2017 Hacker Camp in the Netherland on [Regulating Law Enforcement use of Trojans (SHA2017)](https://www.youtube.com/watch?v=tF_i3X_PcFY) by Fabio Pietrosanti and Andrea Ghirardini ([Here the Slides](https://docs.google.com/presentation/d/11-AdcbRlxhWwHhHz54Yp8hNYXAICYBHHfumDO89XFrs/edit) )
 
