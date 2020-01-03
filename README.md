@@ -47,6 +47,6 @@ ENG:
 
 * [Talking notes](https://github.com/fpietrosanti/trojanregulations/blob/master/Conferenza-Stampa-Note-Proposta-di-Legge-IT.doc) for the Press conference
 
-* Talk at SHA2017 Hacker Camp in the Netherland on [Regulating Law Enforcement use of Trojans (SHA2017)](https://www.youtube.com/watch?v=tF_i3X_PcFY) by Fabio Pietrosanti and Andrea Ghirardini 
+* Talk at SHA2017 Hacker Camp in the Netherland on [Regulating Law Enforcement use of Trojans (SHA2017)](https://www.youtube.com/watch?v=tF_i3X_PcFY) by Fabio Pietrosanti and Andrea Ghirardini ([Here the Slides](https://docs.google.com/presentation/d/11-AdcbRlxhWwHhHz54Yp8hNYXAICYBHHfumDO89XFrs/edit) )
 
 * Journalism Festival 7/04/2017 Panel on [Lawful state hacking: necessary investigative upgrade or privacy nightmare?](https://www.journalismfestival.com/programme/2017/lawful-state-hacking-necessary-investigative-upgrade-or-privacy-nightmare)
