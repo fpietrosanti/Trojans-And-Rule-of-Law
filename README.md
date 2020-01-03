@@ -32,7 +32,7 @@ ENG:
 ## Third party opinions / review / interests
 
 1. CCC issued an [expert information on the political groups on risks when using malware in prosecution](https://www.ccc.de/system/uploads/227/original/Stellungnahme_CCC-Staatstrojaner.pdf) that  explicitly mention and include references to the safety principles of the trojan bill regulation proposal. For non German speaker, here [Google Translated](https://translate.google.com/translate?sl=de&tl=en&u=https%3A%2F%2Fwww.ccc.de%2Fsystem%2Fuploads%2F227%2Foriginal%2FStellungnahme_CCC-Staatstrojaner.pdf) edition. The CCC position paper inlcude the principles of Italian trojan proposal from Page 16, specifically in addressing the issue of "Lack of technical verifiability and traceability":
- * 1. The source code must be stored and verifiable."
+   * 1. The source code must be stored and verifiable.
  * 2. Every action must be documented completely, tamper-proof and verifiable.
  * 3. The malware must not weaken the general security level of the device
  * 4. The development and use of malware must be carried out by means of a central recording be understandable. 
