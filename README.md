@@ -31,7 +31,18 @@ ENG:
 
 ## Third party opinions / review / interests
 
-* LIBE (EU Committee on Civil Liberties, Justice and Home Affairs) publish in 2017 [Legal Frameworks for Hacking by Law Enforcement: Identification, Evaluation and Comparison of Practices](https://www.europarl.europa.eu/RegData/etudes/STUD/2017/583137/IPOL_STU(2017)583137_EN.pdf#page86) that at Page 86 does a review of the bill proposal concluding *“The abovementioned conditions provide for many of the relevant and expected fundamental rights safeguards. “*
+* CCC issued an [expert information on the political groups on risks when using malware in prosecution](https://www.ccc.de/system/uploads/227/original/Stellungnahme_CCC-Staatstrojaner.pdf) that  explicitly mention and include references to the safety principles of the trojan bill regulation proposal. For non German speaker, here [Google Translated]
+(https://translate.google.com/translate?sl=de&tl=en&u=https%3A%2F%2Fwww.ccc.de%2Fsystem%2Fuploads%2F227%2Foriginal%2FStellungnahme_CCC-Staatstrojaner.pdf) edition.
+The CCC position paper inlcude the principles from Page 16, specifically addressing the issue of "Lack of technical verifiability and traceability" and the Italian Trojan regulation bill proposal solutions:
+ A. The source code must be stored and verifiable."
+ B. Every action must be documented completely, tamper-proof and verifiable.
+ C. The malware must not weaken the general security level of the device
+ D. The development and use of malware must be carried out by means of a central recording be understandable. 
+ E. Independent certification of technical and data protection requirements be renewed regularly.
+ F. Encryption and integrity protection of the data collected. 
+ G. Limitation of sovereign tasks to government agencies.
+
+* EU Committee on Civil Liberties, Justice and Home Affairs (LIBE) published in 2017 [Legal Frameworks for Hacking by Law Enforcement: Identification, Evaluation and Comparison of Practices](https://www.europarl.europa.eu/RegData/etudes/STUD/2017/583137/IPOL_STU(2017)583137_EN.pdf#page86) that at Page 86 does a review of the bill proposal concluding *“The abovementioned conditions provide for many of the relevant and expected fundamental rights safeguards. “*
 
 * [Access Now](https://www.accessnow.org/) on 29 March 2017 publish a [Policy Review of the Bill Proposal](https://github.com/fpietrosanti/trojanregulations/blob/master/Access-Now-Comment-on-the-Trojan-Bill-Proposal.pdf) while condemning any government hacking, express a generally favourable opinion, with several improvements suggestions:
   * "While Access Now does not condone government hacking activity [...] we believe it is of pivotal importance that if it is to be conducted, it is done within a robust legal framework."
