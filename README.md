@@ -1,4 +1,4 @@
-# trojanregulations
+# Trojan Bill Regulation Proposal (Captatori Informatici)
 Collection of Artifacts related to the Bill proposal to regulate the uses by LEA of Trojans in Italy.
 
 The Bill Proposal project has been made by a core team of 4 with a high numbers of volounteers and reviewers over around 2 years time. It didn't become a reality because the Italian Government collapsed before the Law was scheduled to be discussed by the Parliament.
@@ -15,7 +15,15 @@ This repository is made up for valuable juridical, human rights, forensics and t
 ## The Bill Proposal and it's artifacts
 There are many artifacts around the trojan regulation bill proposal we've done in Italy in 2017, most in Italy, with some in English for a bigger audience.
 
+ITA:
+* [The Bill Proposal](https://github.com/fpietrosanti/trojanregulations/blob/master/Proposta-di-Legge-Captatori-Informatici-IT.pdf)
+* [The Technical Regulation of the Bill Proposal](https://github.com/fpietrosanti/trojanregulations/blob/master/Disciplinare-Tecnico-Proposta-di-Legge-Captatori-IT.pdf)
+* [Motivations on why a Technical Regulation is needed](https://github.com/fpietrosanti/trojanregulations/blob/master/Motivazionie-Contenuti-del-Disciplinare-Tecnico-IT.pdf) for the jurists
 
+ENG:
+
+* [Italy unveil a legal proposal to regulate hacking](https://github.com/fpietrosanti/trojanregulations/blob/master/Article-on-Boing-Boing-Italy-unveils-a-legal-proposal-to-regulate-government-hacking-EN.pdf) article on boingboing summarizing for an international audience the principles of the proposal Here the [Online Article](https://boingboing.net/2017/02/15/title-italy-unveils-a-law-pro.html)
+* [Summary of the Bill Proposal](https://github.com/fpietrosanti/trojanregulations/blob/master/Summary-of-bill-proposal-on-trojan-EN.pdf)
 
 ## Third party opinions
 
@@ -35,6 +43,10 @@ There are many artifacts around the trojan regulation bill proposal we've done i
 
 ## Conferences
 
-* Talk by Fabio Pietrosanti and Andrea Ghirardini at SHA2017 Hacker Camp in the Netherland on [Regulating Law Enforcement use of Trojans (SHA2017)](https://www.youtube.com/watch?v=tF_i3X_PcFY) 
+* [Press Conference](https://github.com/fpietrosanti/trojanregulations/blob/master/Conferenza-Stampa-Presentazione-Proposta-di-Legge-IT.pdf) of the Civici and Innovatori parliamentary group preenting the Trojan Bill Proposal
+
+* [Talking notes](https://github.com/fpietrosanti/trojanregulations/blob/master/Conferenza-Stampa-Note-Proposta-di-Legge-IT.doc) for the Press conference
+
+* Talk at SHA2017 Hacker Camp in the Netherland on [Regulating Law Enforcement use of Trojans (SHA2017)](https://www.youtube.com/watch?v=tF_i3X_PcFY) by Fabio Pietrosanti and Andrea Ghirardini 
 
 * Journalism Festival 7/04/2017 Panel on [Lawful state hacking: necessary investigative upgrade or privacy nightmare?](https://www.journalismfestival.com/programme/2017/lawful-state-hacking-necessary-investigative-upgrade-or-privacy-nightmare)
