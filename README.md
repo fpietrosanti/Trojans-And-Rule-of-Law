@@ -1,5 +1,5 @@
 # Trojan Bill Regulation Proposal (Captatori Informatici)
-Collection of Artifacts related to the Bill proposal to regulate the uses by LEA of Trojans in Italy.
+Collection of Artifacts related to the Bill proposal to regulate the uses by LEA of Trojans in Italy in 2017.
 
 The Bill Proposal project has been made by a core team of 4 with a high numbers of volounteers and reviewers over around 2 years time. It didn't become a reality because the Italian Government collapsed before the Law was scheduled to be discussed by the Parliament.
 
