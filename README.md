@@ -4,8 +4,8 @@ Collection of Artifacts related to the Bill proposal to regulate the uses by LEA
 The Bill Proposal project has been made by a core team of 4 with a high numbers of volounteers and reviewers over around 2 years time. It didn't become a reality because the Italian Government collapsed before the Law was scheduled to be discussed by the Parliament.
 
 The team that worked on the the bill proposal was composed as follow:
-* [Stefano Quintarelli](https://twitter.com/quinta), MP experts in IT and Cybersecurity
-* [Stefano Aterno](https://twitter.com/AternoStefano), Criminal Lawyers experts in Hacking Cases
+* [Stefano Quintarelli](https://twitter.com/quinta), MP expert in IT and Cybersecurity
+* [Stefano Aterno](https://twitter.com/AternoStefano), Criminal Lawyers expert in Hacking Cases
 * [Fabio Pietrosanti](https://twitter.com/fpietrosanti), Security and Digital Rights Expert
 * [Andrea Ghirardini](https://twitter.com/darkpila), Security and Computer Forensic Expert
 
