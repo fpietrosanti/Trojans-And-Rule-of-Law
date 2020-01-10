@@ -2,29 +2,32 @@
 Collection of Artifacts related to the Bill proposal to regulate the uses by LEA of Trojans in Italy in 2017.
 
 # Make Interceptions Legal Again
-In the good old world of POTS (plain old telephone systems) a lawful telephone interception was clearly defined and the processes and safeguards have been rather easily defined and implemented in order to strike a balance between respect of fundamental rights and law enforcement possibilities.
+
+Make Interceptions Legal (i.e. adherent to the Rule of Law) Again
+
+In the good old world of POTS (plain old telephone systems) lawful telephone interception was clearly defined and processes and safeguards have been rather easily defined and implemented adhering to the rule of law, finding a way to ensure respect of fundamental rights and law enforcement possibilities.
 
 The digital age has blurred the boundaries between interception, search, tailing, etc.
 
 It is a fact that investigations have moved to the edges, onto citiziens' devices and that the attack surface has broadend from telephones to videogame consoles, to cars, to IoT devices, etc.
 
-Although activists cry foul and try to stop them, it is a fact that such investigations are being enacted everywhere and that little attention has been devoted to the possibility of finding a new balance to safeguard fundamental rights and make interceptions lawful again.
+Although activists cry foul and try to stop them, it is a fact that such investigations are being enacted everywhere, often devoting limited attention to the rule of law.
 
-When elected in the italian parliament, Hon. Stefano Quintarelli tried to work out such a proposal.
+When elected in the italian parliament, Hon. Stefano Quintarelli tried to put forward a proposal to ensure adherence to the rule of law.
 
 A former hacker, entrpreneur, computer security professor, he managed to form a board of advisors under the oversight of Pres. Luciano Violante, a former Speaker of the House (also former member of the legislative office of the Ministry of Justice, investigative magistrate, professor of legal institutions and penal procedure).
 
-The board was composed by three outstanding lawyers with specific experience agreed with Pres. Violante and with a significant reputation with legal institutions, consumer advocay groups and industry.
+The board was composed by three outstanding lawyers with specific experience, agreed with Pres. Violante, and with a significant reputation with legal institutions, consumer advocacy groups and industry.
 
 This board engaged in a number of iterations with relevant stakeholders representing all italian LEUs, major consumer and civil rights advocacy groups, authorities, former MPs and scholars (both from technical and legal academia).
 
-The proposal to Make Interceptions Legal Again was to amend the Italian Penal code and the Code of penal procedure as detailed in this repository.
+The bill proposed amendments to the Italian Penal code and the Code of penal procedure as detailed in this repository.
 
 # Trojan Bill Regulation Proposal (Captatori Informatici)
 
 The Bill Proposal project has been made by an interdisciplinary team with a high numbers of volounteers and reviewers over around 2 years time. It didn't become a reality because the Italian Government collapsed before the Law was scheduled to be discussed by the Parliament.
 
-The team that worked on the the bill proposal was composed as follow:
+The core team that worked on the the bill proposal was composed as follow:
 * [Stefano Quintarelli](https://twitter.com/quinta), MP expert in IT and Cybersecurity
 * [Stefano Aterno](https://twitter.com/AternoStefano), Criminal Lawyers expert in Hacking Cases
 * [Fabio Pietrosanti](https://twitter.com/fpietrosanti), Security and Digital Rights Expert
@@ -33,7 +36,6 @@ The team that worked on the the bill proposal was composed as follow:
 This repository is made up for valuable juridical, human rights, forensics and technical interests on the topic internationally.
 
 No, this bill proposal doesn't have anything todo with export control or undisclosed vulnerabilities (0day).
-
 
 ## The Bill Proposal and it's artifacts
 There are many artifacts around the trojan regulation bill proposal we've done in Italy in 2017, most in Italy, with some in English for a bigger audience.
