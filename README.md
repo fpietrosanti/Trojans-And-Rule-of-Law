@@ -1,21 +1,17 @@
-# Intro
-Collection of Artifacts related to the Bill proposal to regulate the uses by LEA of Trojans in Italy in 2017.
-
-# Make Interceptions Legal Again
-
-Make Interceptions Legal (i.e. adherent to the Rule of Law) Again
+# Trojans And Rule of Law
+The purpose of TrojansAndRuleOfLaw.org is to help fueling a debate to make Lawful Interceptions legal again. (i.e. adherent to the Rule of Law) 
 
 In the good old world of POTS (plain old telephone systems) lawful telephone interception was clearly defined and processes and safeguards have been rather easily defined and implemented adhering to the rule of law, finding a way to ensure respect of fundamental rights and law enforcement possibilities.
 
 The digital age has blurred the boundaries between interception, search, tailing, etc.
 
-It is a fact that investigations have moved to the edges, onto citiziens' devices and that the attack surface has broadend from telephones to videogame consoles, to cars, to IoT devices, etc.
+It is a fact that investigations have moved to the edges, onto citiziens' devices and that the attack surface has broadened from telephones to videogame consoles, to cars, to IoT devices, etc.
 
-Although activists cry foul and try to stop them, it is a fact that such investigations are being enacted everywhere, often devoting limited attention to the rule of law.
+Although activists cry foul and try to stop them, it is a fact that such investigations are being performed everywhere, often devoting limited attention to the rule of law.
 
-When elected in the italian parliament, Hon. Stefano Quintarelli tried to put forward a proposal to ensure adherence to the rule of law.
+When elected in the italian parliament, Hon. Stefano Quintarelli tried to put forward a proposal to ensure adherence to the rule of law in this area.
 
-A former hacker, entrpreneur, computer security professor, he managed to form a board of advisors under the oversight of Pres. Luciano Violante, a former Speaker of the House (also former member of the legislative office of the Ministry of Justice, investigative magistrate, professor of legal institutions and penal procedure).
+A former hacker, entrepreneur, computer security professor, he managed to form a board of advisors under the oversight of Pres. Luciano Violante, a former Speaker of the House (also former member of the legislative office of the Ministry of Justice, investigative magistrate, professor of legal institutions and penal procedure).
 
 The board was composed by three outstanding lawyers with specific experience, agreed with Pres. Violante, and with a significant reputation with legal institutions, consumer advocacy groups and industry.
 
