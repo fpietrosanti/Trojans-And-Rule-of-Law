@@ -33,7 +33,7 @@ This repository is made up for valuable juridical, human rights, forensics and t
 
 No, this bill proposal doesn't have anything todo with export control or undisclosed vulnerabilities (0day).
 
-## The Bill Proposal and it's artifacts
+## The Bill Proposal and its artifacts
 There are many artifacts around the trojan regulation bill proposal we've done in Italy in 2017, most in Italy, with some in English for a bigger audience.
 
 ITA:
